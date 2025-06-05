@@ -1,4 +1,4 @@
-=== Projek Akhir Mata Kuliah Struktur Data (Representasi Graph dengan Algoritma Dijkstra & TSP) by Kelompok 7 ===
+=== Representasi Graph dengan Algoritma Dijkstra & TSP by Kelompok 7 ===
 
 Nama Anggota Kelompok:
 1. Septiana Dwi Lestari     (24091397113)
